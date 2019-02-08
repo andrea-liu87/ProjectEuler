@@ -3,3 +3,4 @@ The solution for my Project Euler on [HackerRank](https://www.hackerrank.com/str
 
 ## Java Solutions
 [Project Euler #1: Multiples of 3 and 5](https://github.com/snufflesrea/ProjectEuler/blob/master/%231.java)
+</br>Project Euler #2: Even Fibonacci numbers
