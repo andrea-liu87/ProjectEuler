@@ -13,8 +13,8 @@ public class Solution {
             int n = in.nextInt();
             
             long x = (long)n;
-            long a = (long)Math.pow(x*(x+1)/2,2);
-            long b = x*(x+1)*(2*x+1)/6;
+            long a = (long)Math.pow(x*(x+1)/2,2); //all sum natural n number formula
+            long b = x*(x+1)*(2*x+1)/6; //sum all square natural n number formula
             System.out.println(Long.toString(a-b));
         }
     }
