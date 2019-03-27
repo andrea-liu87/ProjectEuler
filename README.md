@@ -6,5 +6,6 @@ The solution for my Project Euler on [HackerRank](https://www.hackerrank.com/str
 </br>[Project Euler #2: Even Fibonacci numbers](https://github.com/snufflesrea/ProjectEuler/blob/master/%232.java)
 </br>[Project Euler #3: Largest prime factor](https://github.com/snufflesrea/ProjectEuler/blob/master/%233.java)
 </br>[Project Euler #4: Largest palindrome product](https://github.com/snufflesrea/ProjectEuler/blob/master/java/%234.java)
+</br>Project Euler #5: Smallest multiple
 </br>[Project Euler #6: Sum square difference](https://github.com/snufflesrea/ProjectEuler/blob/master/%236.java)
 
