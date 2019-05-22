@@ -9,6 +9,6 @@ The solution for my Project Euler on [HackerRank](https://www.hackerrank.com/str
 </br>Project Euler #5: Smallest multiple
 </br>[Project Euler #6: Sum square difference](https://github.com/snufflesrea/ProjectEuler/blob/master/%236.java)
 
-##Kotlin Solution
+## Kotlin Solution
 [Project Euler #1: Multiples of 3 and 5](https://github.com/snufflesrea/ProjectEuler/blob/master/kotlin/%231.java)
 
