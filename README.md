@@ -2,10 +2,13 @@
 The solution for my Project Euler on [HackerRank](https://www.hackerrank.com/strait_viola)
 
 ## Java Solutions
-[Project Euler #1: Multiples of 3 and 5](https://github.com/snufflesrea/ProjectEuler/blob/master/%231.java)
-</br>[Project Euler #2: Even Fibonacci numbers](https://github.com/snufflesrea/ProjectEuler/blob/master/%232.java)
-</br>[Project Euler #3: Largest prime factor](https://github.com/snufflesrea/ProjectEuler/blob/master/%233.java)
+[Project Euler #1: Multiples of 3 and 5](https://github.com/snufflesrea/ProjectEuler/blob/master/java/%231.java)
+</br>[Project Euler #2: Even Fibonacci numbers](https://github.com/snufflesrea/ProjectEuler/blob/master/java/%232.java)
+</br>[Project Euler #3: Largest prime factor](https://github.com/snufflesrea/ProjectEuler/blob/master/java/%233.java)
 </br>[Project Euler #4: Largest palindrome product](https://github.com/snufflesrea/ProjectEuler/blob/master/java/%234.java)
 </br>Project Euler #5: Smallest multiple
 </br>[Project Euler #6: Sum square difference](https://github.com/snufflesrea/ProjectEuler/blob/master/%236.java)
+
+##Kotlin Solution
+[Project Euler #1: Multiples of 3 and 5](https://github.com/snufflesrea/ProjectEuler/blob/master/kotlin/%231.java)
 
